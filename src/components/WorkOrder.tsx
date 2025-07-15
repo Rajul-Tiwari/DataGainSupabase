@@ -11,7 +11,6 @@ export default function DashboardWorkOdersPage() {
 
   return (
     <>
-      <h1 className="text-2xl font-bold text-gray-900 mb-2">Work Orders</h1>
       <form className=" p-8 rounded-xl w-11/12 mx-auto flex flex-col gap-6">
         <div className="grid grid-cols-1   gap-6">
           <select
