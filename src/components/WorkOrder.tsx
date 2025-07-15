@@ -1,5 +1,4 @@
 'use client';
-import DualSidebarLayout from '@/components/DualSidebarLayout'
 import { useState } from 'react';
 
 export default function DashboardWorkOdersPage() {
